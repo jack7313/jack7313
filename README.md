@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=black)
 
 
 [![긴재문의 깃허브 스텟](https://github-readme-stats.vercel.app/api?username=jack7313&show_icons=true&theme=github_dark&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
