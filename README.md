@@ -1,2 +1,2 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/asdf/asdf)
+[![긴재문의 깃허브 스텟](https://github-readme-stats.vercel.app/api?username=jack7313)](https://github.com/anuraghazra/github-readme-stats)
